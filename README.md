@@ -1,3 +1,3 @@
-# Technical Neural Networks
-Assignment 2
+# Technical Neural Networks  
+Assignment 2  
 Multilayer Perzeptron Implimentation
