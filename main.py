@@ -25,5 +25,5 @@ def get_data(file_name):
 if __name__=='__main__':
     fh = 'PA-B_training_data_03.txt'
     data = get_data(fh)
-    x = Perzeptron([4,2])
+    x = Perzeptron([4,4,2])
     x.train(data['input'], data['teacher'])
